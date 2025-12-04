@@ -35,6 +35,8 @@
 ---
 
 ## 📂 프로젝트 구조 (Project Structure)
+<img width="1340" height="1121" alt="image" src="https://github.com/user-attachments/assets/f085e454-091e-49ca-9c1d-c6800e11238f" />
+
 ## 📂 프로젝트 결과 (Project Result)
 
 <img width="224" height="177" alt="image" src="https://github.com/user-attachments/assets/a795f756-246f-498f-96f8-c59ba78c793f" />
