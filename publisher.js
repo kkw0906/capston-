@@ -5,7 +5,6 @@ const mqtt = require("mqtt");
 const express = require("express");
 
 
-
 // -----------------------------------------------------------
 
 // [MQTT 설정]
@@ -205,5 +204,6 @@ const HTTP_PORT = process.env.YOLO_HTTP_PORT || 5001;
 app.listen(HTTP_PORT, () => {
 
   console.log(`🚀 [Server] Node.js 서버 대기 중: http://localhost:${HTTP_PORT}/yolo`);
+
 
 });
