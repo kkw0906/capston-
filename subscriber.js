@@ -199,3 +199,4 @@ const rawColName = process.env.COLLECTION_NAME || 'parking';        // 원본 �
     console.error('Subscriber Error:', e);
   }
 })();
+
