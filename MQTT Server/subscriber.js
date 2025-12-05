@@ -3,6 +3,7 @@ require('dotenv').config();
 const mqtt = require('mqtt');
 const { MongoClient } = require('mongodb');
 
+
 // -------------------------
 // 환경 변수 및 설정
 // -------------------------
@@ -199,4 +200,5 @@ const rawColName = process.env.COLLECTION_NAME || 'parking';        // 원본 �
     console.error('Subscriber Error:', e);
   }
 })();
+
 
